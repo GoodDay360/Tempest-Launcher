@@ -12,6 +12,6 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - This program doesn't have any certificate associate with window, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/blob/main/README.md#add-exclusions-to-window-defender) to Window Defender
 ## Add exclusions to Window Defender
 <img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
-<img src="https://i.imgur.com/KPMdhLo.png" width="800" height="600">
+<img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 
 # Previews
