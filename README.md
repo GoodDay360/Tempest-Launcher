@@ -7,6 +7,6 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 # Future plans
 - Add Minecraft premium account support.
 # Please read
-- Keep it in mind that this program is pre-released. If you found any unexpected error/bugs, please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
+- Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,\nplease report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
 - This program doesn't have any certificate associate with window, Window Defend might delete the file. Turn off window Defender if the program isn't working.
 # Previews
