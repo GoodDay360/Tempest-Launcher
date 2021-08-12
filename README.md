@@ -1,5 +1,5 @@
 # Tempest Launcher <img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110">
-Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/tag/1.0) Tempest Launcher.  
+Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.0/Tempest-Launcher_1.0.exe) Tempest Launcher.  
 # Features
 - HD Skins Support
 - Transparent Skin Support
