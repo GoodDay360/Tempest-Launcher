@@ -1,5 +1,9 @@
 # Tempest Launcher <img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110">
 Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/tag/1.0) Tempest Launcher.  
+# Features
+- HD Skins Support
+- Transparent Skin Support
+- Your cape also support elytra( If your cape included elytra)
 # Future plans
 - Add Minecraft premium account support.
 # Please read
