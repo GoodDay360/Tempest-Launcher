@@ -13,7 +13,8 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 ## Add exclusions to Window Defender
 - Open up your window search bar and search `Window Security`
 <img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
-- Follow the below gif to disable Window Defender\
+- Follow the below gif to disable Window Defender
+
 <img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 
 # Previews
