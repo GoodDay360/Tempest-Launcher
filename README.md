@@ -14,6 +14,7 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Open up your window search bar and search `Window Security`
 <img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
 - Follow the below gif to disable Window Defender
+<br />
 <img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 
 # Previews
