@@ -9,6 +9,7 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
-- This program doesn't have any certificate associate with window, Window Defend might delete the file. Turn off Window Defender if the program isn't working or you can add [Exclusions](#Add exclusions to Window Defender) to Window Defender
-### Add exclusions to Window Defender
+- This program doesn't have any certificate associate with window, Window Defend might delete the file. Turn off Window Defender if the program isn't working or you can add [Exclusions](#exclusions) to Window Defender
+# Add exclusions to Window Defender
+### `exclusions`
 # Previews
