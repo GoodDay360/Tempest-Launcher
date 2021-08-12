@@ -3,7 +3,7 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 # Features
 - HD Skins Support
 - Transparent Skin Support
-- Your cape also support elytra( If your cape included elytra)
+- Your cape also support Elytra( If your Cape included elytra)
 # Future plans
 - Add Minecraft premium account support.
 # Please read
