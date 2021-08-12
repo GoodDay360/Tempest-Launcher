@@ -9,7 +9,7 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
-- This program doesn't have any certificate associate with window, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](# Add_Tempest_Launcher_to_Window_Defender_Exclusions)
+- This program doesn't have any certificate associate with window, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](#_Add_Tempest_Launcher_to_Window_Defender_Exclusions)
 ### Add Tempest Launcher to Window Defender Exclusions
 - Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
 - Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
