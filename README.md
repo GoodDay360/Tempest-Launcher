@@ -15,5 +15,5 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 - Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
 - Now add Tempest Launcher Path `%APPDATA%\.Tempest Launcher` to Window Defender Exclusions<br /><br /><img src="https://i.imgur.com/wlDzyej.gif" width="800" height="600">
-
 # Previews
+- <img src="https://i.imgur.com/KzzEi0G.mp4" width="1280" height="720">
