@@ -9,6 +9,7 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 - Your cape also support Elytra( If your Cape included elytra) ✔️
 - Minecraft premium account support ❌
 - Change Skins/Capes without restart game ❌
+- Auto Launcher update ❌
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
