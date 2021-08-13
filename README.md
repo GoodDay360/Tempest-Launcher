@@ -27,5 +27,5 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 <img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 - Install Tempest Launcher<br /><br />
 <img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
-- Now add Tempest Launcher Path ```%APPDATA%\.Tempest Launcher``` to Window Defender Exclusions and Turn on Window Defender Back<br /><br />
+- Now add Tempest Launcher Path <`%APPDATA%\.Tempest Launcher`> to Window Defender Exclusions and Turn on Window Defender Back<br /><br />
 <img src="https://i.imgur.com/wlDzyej.gif" width="800" height="600">
