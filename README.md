@@ -3,12 +3,11 @@
 # Tempest Launcher <img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110">
 Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.0/Tempest-Launcher_1.0.exe) Tempest Launcher.  
 # Features
-- All players that use the same launcher can see each other Skins/Capes
-- HD Skins Support
-- Transparent Skin Support
-- Your cape also support Elytra( If your Cape included elytra)
-# Future plans
-- Add Minecraft premium account support ❌
+- All players that use the same launcher can see each other Skins/Capes ✔️
+- HD Skins Support ✔️
+- Transparent Skin Support ✔️
+- Your cape also support Elytra( If your Cape included elytra) ✔️
+- Minecraft premium account support ❌
 - Change Skins/Capes without restart game ❌
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
