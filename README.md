@@ -18,4 +18,4 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
 - Now add Tempest Launcher Path `%APPDATA%\.Tempest Launcher` to Window Defender Exclusions<br /><br /><img src="https://i.imgur.com/wlDzyej.gif" width="800" height="600">
 # Previews
-<img src="https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4">
+https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4
