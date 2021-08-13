@@ -7,8 +7,8 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 - HD Skins Support ✔️
 - Transparent Skin Support ✔️
 - Your cape also support Elytra( If your Cape included elytra) ✔️
-- Minecraft premium account support ❌
 - Change Skins/Capes without restart game ❌
+- Minecraft premium account support ❌
 - Auto Launcher update ❌
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
