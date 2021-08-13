@@ -15,8 +15,10 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](#Add-Tempest-Launcher-to-Window-Defender-Exclusions)
 # Video Showcase
 https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4
-# Preview
+# Preview <br />
 <img src="https://i.imgur.com/y2VGLdP.png">
+
+<br />
 # Add-Tempest-Launcher-to-Window-Defender-Exclusions
 - Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
 - Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
