@@ -17,7 +17,9 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
+- Elytra off
 <img src="https://i.imgur.com/y2VGLdP.png">
+- Elytra on
 <img src="https://i.imgur.com/O05TjVz.png">
 
 # Add-Tempest-Launcher-to-Window-Defender-Exclusions
