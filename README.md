@@ -10,6 +10,8 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 - Change Skins/Capes without restart game ❌
 - Minecraft premium account support ❌
 - Auto Launcher update ❌
+<br />
+**I will update this launcher. If there more people using it.
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
