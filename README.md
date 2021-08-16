@@ -8,7 +8,7 @@ My Discord Server: https://discord.gg/jQebZhZ
 - All players that use the same launcher can see each other Skins/Capes ✔️
 - HD Skins/Capes Support ✔️
 - Transparent Skins/Capes Support ✔️
-- Your cape also support Elytra( If your Cape included elytra) ✔️
+- Your cape also support Elytra (If your Cape included elytra) ✔️
 - Change Skins/Capes without restart game ✔️  
 =>🔰 Wait 5-10seconds after upload Skin/Cape before close the launcher.  
 =>🔰 Rejoin world/server is required.
