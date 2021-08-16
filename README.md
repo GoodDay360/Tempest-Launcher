@@ -10,7 +10,7 @@ My Discord Server: https://discord.gg/jQebZhZ
 - Transparent Skins/Capes Support ✔️
 - Your cape also support Elytra (If your Cape included elytra) ✔️
 - Change Skins/Capes without restart game ✔️  
-=>🔰 Wait 5-10seconds after upload Skin/Cape before close the launcher.  
+=>🔰 Wait 5-10seconds after upload Skin/Cape before close the Launcher.  
 =>🔰 Rejoin world/server is required.
 - Minecraft premium account support ❌
 - Auto Launcher update ❌
