@@ -8,7 +8,9 @@ Check [releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page t
 - HD Skins Support ✔️
 - Transparent Skin Support ✔️
 - Your cape also support Elytra( If your Cape included elytra) ✔️
-- Change Skins/Capes without restart game ❌
+- Change Skins/Capes without restart game ✔️
+=>🔰 Wait 5-10seconds after upload Skin/Cape before close the launcher.
+=>🔰 Rejoin world/server is required.
 - Minecraft premium account support ❌
 - Auto Launcher update ❌
 ### <Update>
