@@ -4,7 +4,7 @@
 Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.1/Tempest-Launcher_1.1.exe) Tempest Launcher v1.1  
 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 - My Discord Server: https://discord.gg/jQebZhZ  
-- Supports me at: https://www.patreon.com/goodday360  
+- Supports me at: https://www.patreon.com/join/goodday360?  
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
 - HD Skins/Capes Support ✔️
