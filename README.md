@@ -29,6 +29,7 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Elytra on<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
 
 # Add-Tempest-Launcher-to-Window-Defender-Exclusions
+### Use this method if the your window defender/antivirus delete the file but on most PC there no need to do this since the Launcher Certification is Trusted by Microsoft.
 - Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
 - Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 - Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
