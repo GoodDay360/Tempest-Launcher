@@ -5,7 +5,7 @@ Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay36
 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 - My Discord Server: https://discord.gg/jQebZhZ  
 - Supports me at: https://www.patreon.com/join/goodday360  
-### <>
+### < >
 🔰 Make your other program that using Java is closed. So the Launcher could launch Minecraft.
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
