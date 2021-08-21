@@ -30,8 +30,8 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - Elytra off<br /><br /><img src="https://i.imgur.com/y2VGLdP.png">
 - Elytra on<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
 # This project is possible thanks to
-- [@mindstorm38](https://github.com/mindstorm38) [portablemc](https://github.com/mindstorm38/portablemc)
-- [benno1237](https://github.com/benno1237) [MinePI](https://github.com/benno1237/MinePI)
+- [@mindstorm38]([https://github.com/mindstorm38]) [portablemc](https://github.com/mindstorm38/portablemc)
+- [@benno1237]([https://github.com/benno1237]) [MinePI](https://github.com/benno1237/MinePI)
 # Add-Tempest-Launcher-to-Window-Defender-Exclusions
 ### Use this method if the your window defender/antivirus delete the file but on most PC there no need to do this.
 - Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
