@@ -33,7 +33,7 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
 # Add-Tempest-Launcher-to-Window-Defender-Exclusions
-### Use this method if the your window defender/antivirus delete the file but on most PC there no need to do this.
+🔰 **Use this method if the your window defender/antivirus delete the file but on most PC there no need to do this.**  
 - Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
 - Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
 - Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
