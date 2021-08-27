@@ -7,7 +7,6 @@ If you're have any problems make sure to check the [wiki](https://github.com/Goo
 - My Discord Server: https://discord.gg/jQebZhZ  
 - Supports me at: https://www.patreon.com/join/goodday360  
 ###
-🔰 Make sure your other program that using Java is closed. So the Launcher could launch Minecraft.
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
 - HD Skins/Capes Support ✔️
