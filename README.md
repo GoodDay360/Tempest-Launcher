@@ -20,10 +20,6 @@ Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page t
 - Auto Launcher update ❌
 ### <Update>
 🔰 **I will update this launcher. If there more people using it**.
-# Please read
-- Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
-please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
-- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions)
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
@@ -32,3 +28,7 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
+# Please read
+- Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
+please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
+- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions)
