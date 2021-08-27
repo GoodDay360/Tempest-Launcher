@@ -23,7 +23,7 @@ Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page t
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
-- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](#Add-Tempest-Launcher-to-Window-Defender-Exclusions)
+- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions)
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
@@ -32,9 +32,3 @@ please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/iss
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
-# Add-Tempest-Launcher-to-Window-Defender-Exclusions
-🔰 **Use this method if the your window defender/antivirus delete the file but on most PC there no need to do this.**  
-- Open up your window search bar and search `Window Security`<br /><br /><img src="https://i.imgur.com/yOKKqkR.png" width="800" height="600">
-- Follow the below gif to disable Window Defender<br /><br /><img src="https://i.imgur.com/5ns50oU.gif" width="800" height="600">
-- Install Tempest Launcher<br /><br /><img src="https://i.imgur.com/8EU9GkM.gif" width="800" height="600">
-- Now add Tempest Launcher Path `%APPDATA%\.Tempest Launcher` to Window Defender Exclusions and Turn Window Defender Back on<br /><br /><img src="https://i.imgur.com/wlDzyej.gif" width="800" height="600">
