@@ -30,5 +30,5 @@ If you're have any problems make sure to check the [wiki](https://github.com/Goo
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
 # Please read
 - Keep it in mind that this program is pre-released. If you found any unexpected error/bugs,
-please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues)
-- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions)
+please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
+- This program certification isn't fully associated with window yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions).
