@@ -16,7 +16,7 @@ If you're have any problems make sure to check the [Wiki](https://github.com/Goo
 🔰 Wait 5-15seconds after upload Skin/Cape before close the Launcher.  
 🔰 Rejoin world/server is required.  
 🔰 Keep launcher running while playing is recommended to allow launcher keep syncing with Skins/Capes Server. 
-- Minecraft premium account support ❌
+- Minecraft premium account support ✔️ 
 - Auto Launcher update ❌
 ### <Update>
 🔰 **I will update this launcher. If there more people using it**.
