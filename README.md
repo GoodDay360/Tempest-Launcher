@@ -23,8 +23,8 @@ If you're have any problems make sure to check the [Wiki](https://github.com/Goo
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
-- Elytra off<br /><br /><img src="https://i.imgur.com/y2VGLdP.png">
-- Elytra on<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
+- **Elytra off**<br /><br /><img src="https://i.imgur.com/y2VGLdP.png">
+- **Elytra on**<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
 # Please read
 - Keep it in mind that this launcher is unstable. If you found any unexpected error/bugs,
 please report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
