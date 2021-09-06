@@ -4,7 +4,7 @@
 Get your own free Minecraft Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.3/Tempest-Launcher_1.3.exe) Tempest Launcher v1.3  
 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 If you're have an ideas of something new that you're want to recommand us. Why not tell us [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas).  
-If you're have any problems make sure to check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page.  
+Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page, if you're have any problems.  
 - My Discord Server: https://discord.gg/jQebZhZ  
 - Supports me at: https://www.patreon.com/join/goodday360  
 ###
