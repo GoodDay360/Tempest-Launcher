@@ -16,6 +16,7 @@
 🔰 Wait 5-15seconds after uploaded Skin/Cape before closing the Launcher.  
 🔰 Rejoin world/server is required.  
 🔰 Keep the launcher running while playing is recommended to allow the launcher to keep syncing with Skins/Capes Server. 
+- Minecraft cracked account support ✔️
 - Minecraft premium account support ✔️ 
 - Auto Launcher update ❌
 ### <Update>
