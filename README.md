@@ -5,7 +5,6 @@
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page, if you have any problems.  
 - My Discord Server: https://discord.gg/jQebZhZ  
 - Supports me at: https://www.patreon.com/join/goodday360  
-***
 ###
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
@@ -20,18 +19,15 @@
 - Auto Launcher update ❌
 ### <Update>
 🔰 **I will update this launcher. If there more people using it**.
-***
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
 - **Elytra off**<br /><br /><img src="https://i.imgur.com/y2VGLdP.png">
 - **Elytra on**<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
-***
 # Please read
 - Keep in mind that this launcher is unstable. If you found any unexpected errors/bugs,
 please check your `crash.log` and report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
 - This program certification isn't fully associated with Windows yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions).
-***
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
