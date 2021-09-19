@@ -19,7 +19,7 @@
 - Minecraft premium account support ✔️ 
 - Auto Launcher update ❌
 ### <Update>
-🔰 **I will update this launcher. If there more people using it**.
+💜 **I will update this launcher. If there more people using it**.
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
