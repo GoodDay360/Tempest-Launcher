@@ -2,10 +2,11 @@
 🔰 Get your own free Minecraft Java Skins/Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.4/Tempest-Launcher_1.4.exe) Tempest Launcher v1.4  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!  
+🔰 My Launcher [plan](https://github.com/users/GoodDay360/projects/1)
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page, if you have any problems.  
 - My Discord Server: https://discord.gg/jQebZhZ  
 - Supports me at: https://www.patreon.com/join/goodday360  
-🔰 My Launcher [plan](https://github.com/users/GoodDay360/projects/1)
+
 ###
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
