@@ -34,5 +34,6 @@ please check your `crash.log` and report it at [Issues](https://github.com/GoodD
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
+- [@xfl03](https://www.curseforge.com/members/xfl03/followers) [[CustomSkinLoader](https://www.curseforge.com/minecraft/mc-mods/customskinloader)]
 ***
 
