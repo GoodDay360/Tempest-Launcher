@@ -1,5 +1,6 @@
 # Tempest Launcher <img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> 
-🔰 Get your own free Minecraft Java Capes. [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.5/Tempest-Launcher_1.5.exe) Tempest Launcher v1.4  
+🔰 Get your own free Minecraft Java Capes.  
+🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.5/Tempest-Launcher_1.5.exe) Tempest Launcher v1.4  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!  
 🔰 Tempest Launcher project [Plan](https://github.com/users/GoodDay360/projects/1).  
@@ -17,6 +18,9 @@
 🔰 Wait 5-15seconds after uploaded Skin/Cape before close the Launcher.  
 🔰 Rejoin world/server is required.  
 🔰 Keep the launcher running while playing is recommended to allow the launcher to keep syncing with Skins/Capes Server. 
+- Modpacks creation
+- Manage Modpacks Mods with a simple click to install
+- Modpacks supported Fabric ( Forge coming soon! )
 - Minecraft cracked account support ✔️
 - Minecraft premium account support ✔️ 
 - Auto Launcher update ❌
