@@ -1,6 +1,6 @@
 # Tempest Launcher [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 Get your own free Minecraft Java Capes.  
-🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.6.2/Tempest-Launcher_1.6.2.exe) Tempest Launcher v1.6.2  
+🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.7/Tempest-Launcher_1.7.exe) Tempest Launcher v1.6.2  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!  
 🔰 Tempest Launcher project [Plan](https://github.com/users/GoodDay360/projects/1).  
