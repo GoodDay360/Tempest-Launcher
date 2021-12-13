@@ -1,3 +1,4 @@
+## 🌟 log4j exploit patched since version 1.7. Please update the launcher. 
 # Tempest Launcher [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 Get your own free Minecraft Java Capes.  
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.7/Tempest-Launcher_1.7.exe) Tempest Launcher v1.7  
@@ -23,7 +24,7 @@
 - Modpacks supported Fabric ( Forge coming soon! ) ✔️
 - Minecraft cracked account support ✔️
 - Minecraft premium account support ✔️ 
-- Auto Launcher update ❌
+- Auto Launcher update ✔️
 ### <Update>
 💜 **I will update this launcher. If there more people using it**.
 # Video Showcase
