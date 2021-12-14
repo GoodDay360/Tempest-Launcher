@@ -19,7 +19,7 @@
 🔰 Wait 5-15seconds after uploaded Skin/Cape before close the Launcher.  
 🔰 Rejoin world/server is required.  
 🔰 Keep the launcher running while playing is recommended to allow the launcher to keep syncing with Skins/Capes Server. 
-- Modpacks creation
+- Modpacks creation ✔️
 - Manage Modpacks Mods with a simple click to install ✔️
 - Modpacks supported Fabric ( Forge coming soon! ) ✔️
 - Minecraft cracked account support ✔️
