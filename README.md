@@ -12,7 +12,6 @@
 ###
 # Features
 - All players that use the same launcher can see each other Skins/Capes ✔️
-- Photo to Minecraft skin converter ✔️
 - HD Skins/Capes Support ✔️
 - Your Cape also support Elytra (If your Cape included elytra) ✔️
 - Change Skins/Capes without restart game ✔️  
@@ -24,6 +23,7 @@
 - Modpacks supported Fabric ( Forge coming soon! ) ✔️
 - Minecraft cracked account support ✔️
 - Minecraft premium account support ✔️ 
+- Photo to Minecraft skin converter ✔️
 - Auto Launcher update ✔️
 ### <Update>
 💜 **I will update this launcher. If there more people using it**.
