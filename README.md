@@ -19,7 +19,7 @@
 🔰 Rejoin world/server is required.  
 🔰 Keep the launcher running while playing is recommended to allow the launcher to keep syncing with Skins/Capes Server. 
 - Modpacks creation ✔️
-- Manage Modpacks Mods with a simple click to install ✔️
+- Manage Modpacks Mods with a simple click to install/uninstall ✔️
 - Modpacks supported Fabric ( Forge coming soon! ) ✔️
 - Minecraft cracked account support ✔️
 - Minecraft premium account support ✔️ 
