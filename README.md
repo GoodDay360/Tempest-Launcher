@@ -1,3 +1,4 @@
+## ⚠️ Currently Not Working. I don't have time to fix it. But I will rework on this projects in future for more stablity and more.
 ## 🌟 log4j exploit patched since version 1.7 Please update the launcher. 
 # Tempest Launcher [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 Get your own free Minecraft Java Capes.  
