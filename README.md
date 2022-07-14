@@ -27,7 +27,7 @@
 - **Elytra on**<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
 # Please read
 - Keep in mind that this launcher is unstable. If you found any unexpected errors/bugs,
-please check your `crash.log` and report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
+please check your `console` and report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
 - This program certification isn't fully associated with Microsoft yet, so Window Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions).
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
