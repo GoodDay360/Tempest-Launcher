@@ -14,19 +14,14 @@
 - All players that use the same launcher can see each other Skins/Capes ✔️
 - HD Skins/Capes Support ✔️
 - Your Cape also support Elytra (If your Cape included elytra) ✔️
-- Change Skins/Capes without restart game ✔️  
-🔰 Wait 5-15seconds after uploaded Skin/Cape before close the Launcher.  
-🔰 Rejoin world/server is required.  
-🔰 Keep the launcher running while playing is recommended to allow the launcher to keep syncing with Skins/Capes Server. 
-- Modpacks creation ✔️
-- Manage Modpacks Mods with a simple click to install/uninstall ✔️
-- Modpacks supported Fabric ( Forge coming soon! ) ✔️
+- Photo to Minecraft skin converter ( ⚠️ Temporary Disabled )
+- Modpacks creation ( ⚠️ Temporary Disabled )
+- Manage Modpacks Mods with a simple click to install/uninstall ( ⚠️ Temporary Disabled )
+- Modpacks supported Fabric ( ⚠️ Temporary Disabled )
 - Minecraft cracked account support ✔️
-- Minecraft premium account support ✔️ 
-- Photo to Minecraft skin converter ✔️
-- Auto Launcher update ✔️
+- Minecraft premium account support ( ⚠️ Temporary Disabled )
 ### <Update>
-💜 **I will update this launcher. If there more people using it**.
+## 💜 **I will update this launcher. If there more people using it**.
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
