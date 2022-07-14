@@ -4,8 +4,7 @@
 🔰 Get your own free Minecraft Java Capes.  
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases/download/1.9.1/Tempest-Launcher_1.9.1.exe) Tempest Launcher v1.9.1  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
-🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!  
-🔰 Tempest Launcher project [Plan](https://github.com/users/GoodDay360/projects/1).  
+🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!   
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page, if you have any problems.  
 🔰 My Discord Server: https://discord.gg/jQebZhZ  
 
