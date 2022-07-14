@@ -16,8 +16,7 @@
 - Your Cape also support Elytra (If your Cape included elytra) ✔️
 - Photo to Minecraft skin converter ( ⚠️ Temporary Disabled )
 - Modpacks creation ( ⚠️ Temporary Disabled )
-- Manage Modpacks Mods with a simple click to install/uninstall ( ⚠️ Temporary Disabled )
-- Modpacks supported Fabric ( ⚠️ Temporary Disabled )
+- Manage Modpack Mods with a simple click to install/uninstall ( ⚠️ Temporary Disabled )
 - Minecraft cracked account support ✔️
 - Minecraft premium account support ( ⚠️ Temporary Disabled )
 ### <Update>
