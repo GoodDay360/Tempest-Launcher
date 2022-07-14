@@ -7,8 +7,7 @@
 🔰 If you have an idea of something new that you're want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!  
 🔰 Tempest Launcher project [Plan](https://github.com/users/GoodDay360/projects/1).  
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page, if you have any problems.  
-- My Discord Server: https://discord.gg/jQebZhZ  
-- Supports me at: https://www.patreon.com/join/goodday360  
+🔰 My Discord Server: https://discord.gg/jQebZhZ  
 
 ###
 # Features
