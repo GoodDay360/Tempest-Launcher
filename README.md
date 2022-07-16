@@ -23,8 +23,8 @@
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Preview
-- **Elytra off**<br /><br /><img src="https://i.imgur.com/y2VGLdP.png">
-- **Elytra on**<br /><br /><img src="https://i.imgur.com/O05TjVz.png">
+# <img src="https://user-images.githubusercontent.com/59399625/179349707-5f7a823e-d8a2-456e-869f-4e288c4c8a77.PNG">  
+# <img src="https://user-images.githubusercontent.com/59399625/179349737-62cb01d9-5f0b-4aae-8d37-d7568422e168.PNG">  
 # Please read
 - Keep in mind that this launcher is unstable. If you found any unexpected errors/bugs,
 please check your `console` and report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
