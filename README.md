@@ -9,7 +9,7 @@
 
 ###
 # Features
-- All players that use the same launcher can see each other Skins/Capes ✔️
+- All players that use the same launcher can see each other Skin/Cape ✔️
 - HD Skins/Capes Support ✔️
 - Your Cape also support Elytra (If your Cape included elytra) ✔️
 - Photo to Minecraft skin converter ( ⚠️ Temporary Disabled )
