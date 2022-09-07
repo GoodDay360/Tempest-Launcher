@@ -21,7 +21,7 @@
 ## 💜 **I will update this launcher. If there more people using it**.
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
-# Preview
+# Launcher Preview
 # <img src="https://user-images.githubusercontent.com/59399625/179349707-5f7a823e-d8a2-456e-869f-4e288c4c8a77.PNG">  
 # <img src="https://user-images.githubusercontent.com/59399625/179349737-62cb01d9-5f0b-4aae-8d37-d7568422e168.PNG">  
 # Please read
