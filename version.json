@@ -1,7 +1,7 @@
 {
-  "version": "2.1",
+  "version": "2.3",
   "url": {
-    "window": "https://github.com/GoodDay360/Tempest-Launcher/releases/download/2.1-bugs-fix/Tempest-Launcher_2.1.exe",
-    "linux": "https://github.com/GoodDay360/Tempest-Launcher/releases/tag/2.1-bugs-fix"
+    "window": "https://github.com/GoodDay360/Tempest-Launcher/releases/download/2.3/Tempest-Launcher_2.3.exe",
+    "linux": "https://github.com/GoodDay360/Tempest-Launcher/releases/tag/2.3"
   }
 }
