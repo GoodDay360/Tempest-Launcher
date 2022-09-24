@@ -7,7 +7,7 @@
   "updater": {
     "window":{
       "url": "https://github.com/GoodDay360/Tempest-Launcher/blob/main/Tempest-Updater_Window.exe?raw=true",
-      "sha256": "7644067a55e7f47cba5217c4d8709978c29f363f07872e26f661a1162e60405d"
+      "sha256": "5c812b366c5d714c7a38d657c0ac60c87b3b204e54125a5bf29c68a258f6fd38"
     },
     "linux": {
       "url": "",
