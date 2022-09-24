@@ -9,7 +9,7 @@
 
 ###
 # Features
-- All players that use the same launcher can see each other Skin/Cape ✔️
+- Supported Texture Server: TempestLauncher, Elyby, SkinMe, Mojang, TLauncher, etc ✔️
 - HD Skins/Capes Support ✔️
 - Your Cape also supports Elytra (If your Cape included elytra) ✔️
 - Modpacks creation ✔️
