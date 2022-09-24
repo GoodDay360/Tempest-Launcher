@@ -3,5 +3,15 @@
   "url": {
     "window": "https://github.com/GoodDay360/Tempest-Launcher/releases/download/2.3/Tempest-Launcher_2.3-Window.exe",
     "linux": "https://github.com/GoodDay360/Tempest-Launcher/releases/tag/2.3"
+  },
+  "updater": {
+    "window":{
+      "url": "",
+      "sha512": ""
+    },
+    "linux": {
+      "url": "",
+      "sha512": ""
+    }
   }
 }
