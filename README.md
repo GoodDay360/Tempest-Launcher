@@ -13,9 +13,9 @@
 - HD Skins/Capes Support ✔️
 - Your Cape also supports Elytra (If your Cape included elytra) ✔️
 - Modpacks creation ✔️
+- Manage Modpack Mods with a simple click to auto install/uninstall ✔️
 - Minecraft cracked account support ✔️
 - Photo to Minecraft skin converter ( ⚠️ Temporary Disabled )
-- Manage Modpack Mods with a simple click to install/uninstall ( ⚠️ Temporary Disabled )
 - Minecraft premium account support ( ⚠️ Temporary Disabled )
 ### <Update>
 ## 💜 **I will update this launcher. If more people are using it**.
