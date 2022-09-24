@@ -10,8 +10,8 @@
       "sha256": "b80547cc604c3fe7642b4908cd5b065a4f88785871a44eb8d379c9b23a4df384"
     },
     "linux": {
-      "url": "",
-      "sha256": ""
+      "url": "https://github.com/GoodDay360/Tempest-Launcher/blob/main/Tempest-Updater_Linux?raw=true",
+      "sha256": "2e97e4563e699e304e40fb20335155b72c2c962b22b0815d712b522db47ffa52"
     }
   }
 }
