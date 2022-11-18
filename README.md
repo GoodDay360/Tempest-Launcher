@@ -18,7 +18,6 @@
 - Photo to Minecraft skin converter ( ⚠️ Temporary Disabled )
 - Minecraft premium account support ( ⚠️ Temporary Disabled )
 ### <Update>
-## 💜 **I will update this launcher. If more people are using it**.
 # Video Showcase
 <https://user-images.githubusercontent.com/59399625/129297818-e15f7b7b-336a-467d-94ef-beca645550ca.mp4>
 # Launcher Preview
