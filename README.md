@@ -1,15 +1,16 @@
 ## 🌟 log4j exploit patched since version 1.7. Please update the launcher. 
-# What's Tempest Launcher? [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
-- An easy-to-use Minecraft launcher that has built-in modpack creations and auto-install mod.
-- With this launcher, you can create up to 5 usernames that can be linked to your Microsoft account. 
-- Each username can upload a custom skin and cape that is displayed to all of the players that uses the same launcher.
-- Supported texture server: TempestLauncher, Mojang, SkinMe, LittleSkin, TLauncher, ...etc
-# Informations
+# Informations [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases) Tempest Launcher  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 🔰 If you have an idea of something new that you want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!   
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page if you have any problems.  
 🔰 My Discord Server: https://discord.gg/jQebZhZ  
+
+# What's Tempest Launcher?
+- An easy-to-use Minecraft launcher that has built-in modpack creations and auto-install mod.
+- With this launcher, you can create up to 5 usernames that can be linked to your Microsoft account. 
+- Each username can upload a custom skin and cape that is displayed to all of the players that uses the same launcher.
+- Supported texture server: TempestLauncher, Mojang, SkinMe, LittleSkin, TLauncher, ...etc
 
 ###
 # Features
