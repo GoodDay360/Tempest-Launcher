@@ -1,5 +1,6 @@
 ## 🌟 log4j exploit patched since version 1.7. Please update the launcher. 
 # Informations [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/tempest-launcher)  
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases) Tempest Launcher  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
 🔰 If you have an idea of something new that you want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!   
