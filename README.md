@@ -2,7 +2,6 @@
 # Informations [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases) Tempest Launcher  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
-🔴 Sadly Window that lower than Window 8.1 is unsupported  
 🔰 If you have an idea of something new that you want to recommend to us. Tell us at [Discussions](https://github.com/GoodDay360/Tempest-Launcher/discussions/categories/ideas)!   
 🔰 Check the [Wiki](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki) page if you have any problems.  
 🔰 My Discord Server: https://discord.gg/jQebZhZ  
@@ -15,6 +14,9 @@
 - Supported texture server: TempestLauncher, Mojang, SkinMe, LittleSkin, TLauncher, ...etc
 
 ###
+# Compatibility
+- Sadly Window that lower than Window 8.1 is unsupported
+- Supported Linux - GNU/Unix (Required QT)
 # Features
 - Supported Texture Server: TempestLauncher, Elyby, SkinMe, Mojang, TLauncher, etc ✔️
 - HD Skins/Capes Support ✔️
