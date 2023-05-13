@@ -1,4 +1,4 @@
-## 🌟 This application still working fine but further issue won't be maintenance. This project might be rebuild in future from [Python] => [React-Native]
+## 🌟 This application still working fine but further issue won't be maintenance. This project might be rebuild in future from [PyQT] => [React-Native]
 # Informations [<img src="https://i.imgur.com/1wfpYd5.png" align="right" title="Maestral" width="110" height="110"> ](https://github.com/GoodDay360/Tempest-Launcher)
 🔰 [Download](https://github.com/GoodDay360/Tempest-Launcher/releases) Tempest Launcher  
 🔰 Check [Releases](https://github.com/GoodDay360/Tempest-Launcher/releases) page to see features update changed.  
