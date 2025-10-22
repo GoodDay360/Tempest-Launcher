@@ -36,7 +36,7 @@
 # Please read
 - Keep in mind that this launcher is unstable. If you found any unexpected errors/bugs,
 please check your `console` and report it at [Issues](https://github.com/GoodDay360/Tempest-Launccher/issues).
-- This program certification isn't entirely associated with Microsoft yet, so Windows Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working, or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions).
+- Windows Defender/Antivirus might delete the file. Turn off Window Defender/Antivirus if the program isn't working, or you can add Tempest Launcher to Window Defender [Exclusions](https://github.com/GoodDay360/Tempest-Launcher/wiki/Tempest-Launcher-Wiki#add-tempest-launcher-to-window-defender-exclusions).
 # This project is possible thanks to
 - [@mindstorm38](https://github.com/mindstorm38) [[portablemc](https://github.com/mindstorm38/portablemc)]
 - [@benno1237](https://github.com/benno1237) [[MinePI](https://github.com/benno1237/MinePI)]
